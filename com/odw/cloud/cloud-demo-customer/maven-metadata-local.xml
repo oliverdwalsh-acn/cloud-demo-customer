@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.odw.cloud</groupId>
+  <artifactId>cloud-demo-customer</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20211101182445</lastUpdated>
+  </versioning>
+</metadata>
